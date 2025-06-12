@@ -89,7 +89,7 @@
 
 14 directories, 26 files
 
-👉 [Open Streamlit App](https://your-streamlit-app-link.streamlit.app)  
+👉 [Open Streamlit App](https://mobile-market-analysis-billeasy.streamlit.app/)  
 
 ---
 
