@@ -46,7 +46,7 @@
 ---
 
 ## 📁 Folder Structure
-.
+
 ├── ReadMe.MD
 ├── SQLQuery.sql
 ├── assets
