@@ -49,47 +49,7 @@
 
 ## 📁 Folder Structure
 
-├── ReadMe.MD
-├── SQLQuery.sql
-├── assets
-│   ├── Billeasy_Side_Logo.png
-│   ├── DB_O1_PriceSegment_By_Brand.png
-│   ├── DB_O2_Common_Storage_Values.png
-│   ├── DB_O3_AveragePrice&VariantCount_PerBrand&Model.png
-│   ├── DB_O4_NO_Discount.png
-│   ├── DB_O5_Brand_Dominance_per_segment.png
-│   ├── DB_first_update.png
-│   ├── DB_initial_import.png
-│   ├── assessment_Q3.png
-│   ├── assessment_Q4.png
-│   ├── ml_model_performance_metrics.png
-│   └── ml_model_prediction.png
-├── cleaned_data
-│   ├── brand_model_summary.csv
-│   ├── cleaned_mobile_data.csv
-│   └── price_segment_limits.csv
-├── notebooks
-│   ├── data_wrangling.ipynb
-│   └── price_prediction_ml_model.ipynb
-├── power_bi_dashboard
-│   ├── assessment_Q1.1.png
-│   ├── assessment_Q1.png
-│   ├── assessment_Q2.1.png
-│   ├── assessment_Q2.png
-│   └── mobile_market_insights(FlipKart).pbix
-├── raw_data
-│   ├── Flipkart data
-│   └── __MACOSX
-├── streamlit_app.py
-└── venv
-    ├── Include
-    ├── Lib
-    ├── Scripts
-    ├── etc
-    ├── pyvenv.cfg
-    └── share
-
-14 directories, 26 files
+![Working Tree](https://github.com/NamanKumar24-hub/mobile-market-analysis-streamlit/blob/main/assets/project_tree.png)
 
 👉 [Open Streamlit App](https://mobile-market-analysis-billeasy.streamlit.app/)  
 
