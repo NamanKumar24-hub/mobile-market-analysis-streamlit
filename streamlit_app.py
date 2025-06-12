@@ -5,7 +5,7 @@ from pathlib import Path
 
 st.set_page_config(page_title="Mobile Market Insights | Flipkart", layout="wide")
 
-st.title("📱 Indian Mobile Market Analysis")
+st.title("📱 Indian Mobile Market Analysis | Billeasy")
 st.markdown("By **Naman (naman.k3612@gmail.com)** | Flipkart Dataset")
 
 st.markdown("""
