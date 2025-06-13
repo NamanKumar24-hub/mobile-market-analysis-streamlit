@@ -70,7 +70,7 @@ Within the app:
 - [Streamlit](https://streamlit.io)
 - [Pandas](https://pandas.pydata.org)
 - [Power BI](https://powerbi.microsoft.com)
-- [PostgreSQL](https://www.postgresql.org/)
+- [SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/)
 - [Jupyter Notebook](https://jupyter.org)
 
 
